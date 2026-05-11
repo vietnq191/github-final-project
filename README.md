@@ -10,3 +10,4 @@ A simple bash script to calculate simple interest given principal, annual rate o
 ## Output:
 * `simple interest = p * t * r`
  
+ 
